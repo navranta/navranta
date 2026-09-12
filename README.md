@@ -159,29 +159,12 @@ console.log("hello world")
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=navranta&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details>
 
-<details>
-  <summary>Quote</summary>
-  <br>
-  <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
-  </blockquote>
-</details>
+
 
 <details>
   <summary>Free DOSE hit</summary>
@@ -210,8 +193,6 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
 
   </td>
   </tr>
